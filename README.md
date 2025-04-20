@@ -6,7 +6,7 @@ This repository contains three time-series projects using **LSTM networks in PyT
 
 ## 📁 Project Files
 
-### 1. `apple_stock_lstm.py` 📈
+### 1. `apple_stock_lstm.ipynb` 📈
 - **Objective**: Predict Apple's stock closing prices using past 30-day sequences.
 - **Framework**: PyTorch
 - **Approach**:
@@ -19,7 +19,7 @@ This repository contains three time-series projects using **LSTM networks in PyT
  </p>
 ---
 
-### 2. `anomaly_detection_lstm_pytorch.py` ⚠️
+### 2. `anomaly_detection_lstm_pytorch.ipynb` ⚠️
 - **Objective**: Detect **harsh anomalies** in synthetic sensor data.
 - **Framework**: PyTorch
 - **Approach**:
@@ -33,7 +33,7 @@ This repository contains three time-series projects using **LSTM networks in PyT
  </p>
 ---
 
-### 3. `anomaly_detection_custom_lstm.py` 🧠
+### 3. `anomaly_detection_custom_lstm.ipynb` 🧠
 - **Objective**: Detect **mild/subtle anomalies** using both standard PyTorch LSTM and a **manually implemented LSTM**.
 - **Framework**: PyTorch
 - **Features**:
